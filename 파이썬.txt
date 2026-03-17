@@ -1,3 +1,6 @@
+이름: 김규원
+학번: 202502930
+학과: 컴퓨터공학과
 print(int(3.14)) 출력 3
 print(float(5)) 출력 5.0
 print( a and b) a와 b둘다 true여야 true로 출력
